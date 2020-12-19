@@ -1,2 +1,2 @@
 # R-SDL
-All Assignment of R 
+All Assignment perform in RStudio. Installation Of R is perfectly Done!!
